@@ -10,3 +10,6 @@ webbrowser - for opening the generated HTML file in a web browser. This is also 
 
 https://tenettech.com
 https://blogspot.tenettech.net
+
+Follow directions on teh olakrutim website to create an account and setup a project. 
+https://maps.olakrutrim.com/docs/auth
